@@ -1,6 +1,6 @@
 import './style.css';
 import  abs  from './images/abs.avif';
-import me from './images/me.jpg';
+import me from './images/my photo.jpg';
 import download from './images/download.png';
 import * as bootstrap from 'bootstrap';
 
