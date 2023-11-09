@@ -17,7 +17,7 @@ export function Home(){
                     <div className="col-lg-10" id="back">
                         <img src={abs} className="img-fluid" alt=""></img>
                         <div className="text-center text-light" id="back-text">
-                            <h1 id='myname'>Hi! There, I am YASH RAJ</h1>
+                            <h1 id='myname'>Hi! There, I am Mangesh Jaybhaye</h1>
                             <p>This is my personal portfolio website</p>
                             <p>Go ahead and Explore <i className="bi bi-search"></i></p>
                         </div>
@@ -35,22 +35,22 @@ export function About(){
                 <div class="row justify-content-center align-item-center">
                     <div class="col-md-5 text-center text-md-start border border-secondary" style={{backgroundColor: "rgb(214, 213, 213)"}}>
                         <h1>
-                            <div class="display-4">YASH RAJ</div>
+                            <div class="display-4">Mangesh Jaybhaye</div>
                             <div class="lead text-muted"><i class="bi bi-file-earmark-person"></i> A Learner | Coding Enthusiast</div>
                         </h1>
                         <hr />
                         <div class="contact">
                             <p class="lead pt-0">Im currently learning DSA and MERN-Stack</p>
                             <span class="lead"><i class="bi bi-envelope-at-fill"></i> How to reach me : 
-                                <a href="mailto:yashraj3247@gmail.com" class="btn btn-sm btn-primary fw-bold">Email</a>
+                                <a href="mailto:mangeshjaybhaye9@gmail.com" class="btn btn-sm btn-primary fw-bold">Email</a>
                             </span>
                             <br /><br />
-                            <span class="lead"><i class="bi bi-geo-fill"></i> Jamshedpur,Jharkhand</span>
+                            <span class="lead"><i class="bi bi-geo-fill"></i> Pune, Maharashtra</span>
                             <br /><br />
                             <span class="lead fw-900"><i class="bi bi-at"></i> Connect with me : </span>
                             <p class="btn-group">
-                                <a href="https://www.linkedin.com/in/yash-raj-88961a159/" target="_blank" class="btn btn-sm btn-success fw-bold"><i class="bi bi-linkedin"></i> Linked In</a>
-                                <a href="https://github.com/YashRaj21-25" target="_blank" class="btn btn-warning btn-sm fw-bold"><i class="bi bi-github"></i> GitHub</a>
+                                <a href="linkedin.com/in/mangesh-jaybhaye-626378238" target="_blank" class="btn btn-sm btn-success fw-bold"><i class="bi bi-linkedin"></i> Linked In</a>
+                                <a href="https://github.com/MangeshJ10603" target="_blank" class="btn btn-warning btn-sm fw-bold"><i class="bi bi-github"></i> GitHub</a>
                             </p>
 
                             <div class="d-block mt-3 btn btn-secondary">
